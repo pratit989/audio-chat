@@ -29,13 +29,13 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  just_audio: ^0.9.11
-  font_awesome_flutter: ^9.1.0
-  permission_handler: ^8.1.6
-  path_provider: ^2.0.5
-  record: ^3.0.0
-  flutter_vibrate: ^1.1.0
-  lottie: ^1.2.1
+  just_audio:
+  font_awesome_flutter:
+  permission_handler:
+  path_provider:
+  record:
+  flutter_vibrate:
+  lottie:
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
