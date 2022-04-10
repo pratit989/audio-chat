@@ -1,6 +1,6 @@
-import 'package:audio_chat/src/globals.dart';
-import 'package:audio_chat/src/routes.dart';
-import 'package:audio_chat/src/theme.dart';
+import 'package:audio_chat/globals.dart';
+import 'package:audio_chat/routes.dart';
+import 'package:audio_chat/theme.dart';
 import 'package:flutter/material.dart';
 
 void main() async {

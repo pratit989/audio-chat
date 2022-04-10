@@ -1,8 +1,8 @@
 import 'dart:io';
 
-import 'package:audio_chat/src/audio_state.dart';
-import 'package:audio_chat/src/globals.dart';
-import 'package:audio_chat/src/widgets/audio_bubble.dart';
+import 'package:audio_chat/audio_state.dart';
+import 'package:audio_chat/globals.dart';
+import 'package:audio_chat/widgets/audio_bubble.dart';
 import 'package:flutter/material.dart';
 
 class AudioList extends StatefulWidget {

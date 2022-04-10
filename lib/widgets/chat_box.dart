@@ -1,6 +1,5 @@
-import 'package:audio_chat/src/globals.dart';
+import 'package:audio_chat/globals.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/painting.dart';
 
 class ChatBox extends StatefulWidget {
   const ChatBox({

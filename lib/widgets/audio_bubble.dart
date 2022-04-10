@@ -1,4 +1,4 @@
-import 'package:audio_chat/src/globals.dart';
+import 'package:audio_chat/globals.dart';
 import 'package:flutter/material.dart';
 import 'package:just_audio/just_audio.dart';
 

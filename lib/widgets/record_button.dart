@@ -1,10 +1,10 @@
 import 'dart:async';
 import 'dart:io';
 
-import 'package:audio_chat/src/audio_state.dart';
-import 'package:audio_chat/src/globals.dart';
-import 'package:audio_chat/src/widgets/flow_shader.dart';
-import 'package:audio_chat/src/widgets/lottie_animation.dart';
+import 'package:audio_chat/audio_state.dart';
+import 'package:audio_chat/globals.dart';
+import 'package:audio_chat/widgets/flow_shader.dart';
+import 'package:audio_chat/widgets/lottie_animation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_vibrate/flutter_vibrate.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
